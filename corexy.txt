@@ -1,0 +1,9 @@
+### first printer (cheap and pro) id:001
+# frame
+
+# electrics
+- BIGTREETECH SKR PRO V1.2        2720000ht
+- 
+
+# misc
+
