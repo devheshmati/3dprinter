@@ -3,7 +3,7 @@
 
 # electrics
 - BIGTREETECH SKR PRO V1.2        2720000ht
-- 
+- LDO-42STH48-2504AC RevA 1.8° 48MM Nema 17 Motor for Voron 2.4
 
 # misc
 
