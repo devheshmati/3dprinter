@@ -2,8 +2,28 @@
 # frame
 
 # electrics
-- BIGTREETECH SKR PRO V1.2        2720000ht
+- BIGTREETECH SKR PRO V1.2                                        2.720mt
 - LDO-42STH48-2504AC RevA 1.8° 48MM Nema 17 Motor for Voron 2.4
+  استپر موتور نما 17 مدل 42BYGH   550ht * 6                       3.300mt
+- Omron G3A-210B-DC5 SSR                                          
+   رله حالت جامد 250 ولت 10 آمپر SSR                              270ht
+- ZF - Rocker Switches DPST 16A             
+- TycoElectronics 10EGG1-2 Filtered Power Inlet stock             180ht
+  line filter                                                     145ht
+- Thermal Fuse (150C)                                             10ht
+- TMC2209 Stepper Motor Driver       *6   v2.0                    127ht  *6 762ht
+- SPDT KW10 Limit Micro Switch      *3                            12ht   *3 36ht
+- Raspberry Pi 4 2gb                                              3.300mt
+- Omron TL-Q5MC2                                                  112ht
+- Mini 12864 Display                                              760ht
+- Medium Blow Fuse 5 x 20mm: 4A for 220V                          1ht
+- terminal bakalit cover                                          50ht
+- Mean Well RS-25-5 PSU                                           490ht
+- Mean Well LRS-200-24 PSU                                        1.035mt
+- Keystone CAT6 Insert (Optional)                                 1ht
+- E3D V6 Bowden Hotend Kit (24V)                                  154ht 
+- power cable                                                     30ht 
+- BAT85 Diode                                                     4ht
 
 # misc
 
