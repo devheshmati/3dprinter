@@ -1,5 +1,32 @@
 ### first printer (cheap and pro) id:001
 # frame
+- Misumi HFSB5-2020-500-LCP-RCP-AV360 *	4
+-	Misumi HFSB5-2020-420-TPW *	9
+-	Misumi HFSB5-2020-420-AH210-TPW *	1
+-	Misumi HFSB5-2020-420-AH210	* 1
+-	Misumi HFSB5-2020-380	* 1
+-	Misumi HFSB5-2020-330-LTP	* 1
+-	Misumi HFSB5-2020-290	* 1
+-	Misumi HFSB5-2020-282-LTP	* 1
+-	DIN 3 Rails (35mm W) - 420mm	* 2
+total:
+
+# motions 
+- TR8x8 Leadscrew Nut * 3
+- Linear Rail MGN13H 350mm for xy * 3                             227.5ht * 3 682.5ht
+- Linear Rail MGN13H 300mm for Z axis * 3                         195ht * 3   585ht
+- Linear Rail wagon * 6                                           
+- GT2 Open Belt LL-2GT-6 (6mm wide) - 1890mm * 2 
+- GT2 20T Toothed Idler (5mm ID 6mm W)  * 2
+- GT2 20T Pulley (5mm ID 6mm W) * 3
+- GE5C Spherical Bearing * 3
+- F695 Bearing * 20
+- 5x30mm Shaft * 1
+total:
+
+# Vibration Management
+- Rubber Foot * 4
+toatl: 
 
 # electrics
 - BIGTREETECH SKR PRO V1.2                                        2.720mt
@@ -24,6 +51,8 @@
 - E3D V6 Bowden Hotend Kit (24V)                                  154ht 
 - power cable                                                     30ht 
 - BAT85 Diode                                                     4ht
+total: 
+
 
 # misc
-
+total:
